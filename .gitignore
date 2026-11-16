@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data: never commit (plan, Repo rule 1). Share parquet files on the group drive.
+data/
+# Tables from the fake test data; real tables in output/tables/ ARE committed.
+output/fake_tables/
