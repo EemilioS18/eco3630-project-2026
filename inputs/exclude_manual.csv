@@ -1,0 +1,23 @@
+ticker,fund_name,reason
+DFUSX,DFA US Large Company I,tracks the S&P 500 or a 500-stock index (passive)
+INDEX,CYBER HORNET S&P 500,tracks the S&P 500 or a 500-stock index (passive)
+RYGRX,Rydex S&P 500 Pure Growth C,tracks the S&P 500 or a 500-stock index (passive)
+RYSYX,Rydex S&P 500 C,tracks the S&P 500 or a 500-stock index (passive)
+RYZAX,Rydex S&P 500 Pure Value H,tracks the S&P 500 or a 500-stock index (passive)
+SPFFX,Sphere 500 Climate R6,tracks the S&P 500 or a 500-stock index (passive)
+SPXUX,WisdomTree 500 Digital N/A,tracks the S&P 500 or a 500-stock index (passive)
+VADDX,Invesco Equally-Wtd S&P 500 Y,tracks the S&P 500 or a 500-stock index (passive)
+FAOFX,Fidelity Advisor Series Growth Opps,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FBLEX,Fidelity Series Stk Selec Lg Cp Val,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FCGSX,Fidelity Series Growth Company,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FDMLX,Fidelity Series Intrinsic Opps,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FGLGX,Fidelity Series Large Cap Stock,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FJACX,Fidelity Series Small Cap Discovery,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FMFMX,Fidelity Advisor Series Equity Gr,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FNKLX,Fidelity Series Value Discovery,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FSAEX,Fidelity Series All-Sector Equity,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FSBDX,Fidelity Series Blue Chip Growth,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FSOPX,Fidelity Series Small Cap Opps,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FSSLX,Fidelity Series Small Cap Core,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FSUMX,Fidelity Series Sustainable U.S. Market,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"
+FVWSX,Fidelity Series Opportunistic Insights,"Fidelity Series: only sold inside Fidelity funds-of-funds, 0% fee at fund level"

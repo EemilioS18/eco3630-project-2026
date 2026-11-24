@@ -61,6 +61,12 @@ else:
 prices = pd.read_parquet(price_file)
 print('Price table:', prices.shape[0], 'days x', prices.shape[1], 'tickers')
 
+# keep only the funds on today's list (+ SPY): a fund dropped from tickers.csv after the download
+# (e.g. by exclude_manual.csv) is still in the saved price file and must not reach the clean files
+keep_cols = [c for c in prices.columns if c in tickers or c == 'SPY']
+print('Price columns not on the ticker list (left out):', prices.shape[1] - len(keep_cols))
+prices = prices[keep_cols]
+
 
 # ======================= Step 3: which tickers have no data? =======================
 # These are download failures. They are NOT a survivorship count: the screener only lists funds

@@ -19,6 +19,7 @@
 #       of the same fund ("Gro" vs "Growth"), that fund can still be counted twice.
 #   R3  Passive funds and ETFs dropped: "Index", "Indx", "Idx" or "ETF" in the fund name.
 #   R4  Funds with an expense ratio under 0.15% are printed for a manual look (possible index funds).
+#   R5  Funds the group decided to drop after that look: inputs/exclude_manual.csv (ticker, reason).
 import os
 import random
 import time
@@ -122,9 +123,16 @@ screen.loc[is_index & (screen['dropped_because'] == ''), 'dropped_because'] = 'i
 is_etf = screen['fund_name'].str.contains(r'\bETF\b', regex=True)    # the plan says no ETFs
 screen.loc[is_etf & (screen['dropped_because'] == ''), 'dropped_because'] = 'ETF (name)'
 
+# R5: funds dropped by hand after looking at the R4 list (passive, or no real fee at fund level)
+if os.path.exists('inputs/exclude_manual.csv'):
+    manual = pd.read_csv('inputs/exclude_manual.csv')
+    is_manual = screen['ticker'].isin(manual['ticker'])
+    screen.loc[is_manual & (screen['dropped_because'] == ''), 'dropped_because'] = 'manual exclude (exclude_manual.csv)'
+    print('R5 manual exclude list:', is_manual.sum(), 'funds')
+
 kept = screen[screen['dropped_because'] == '']
 print('Distinct funds after R2:', (~duplicate_class).sum())
-print('Active funds kept after R3:', len(kept))
+print('Active funds kept after R3 and R5:', len(kept))
 print(kept['category'].value_counts())
 
 if len(kept) < MIN_FUNDS:

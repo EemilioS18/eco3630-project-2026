@@ -310,7 +310,6 @@ DFSIX,DFA US Sustainability Core 1,Large Blend,2008-03-13,DFA US Sustainability 
 DFSTX,DFA U.S. Small Cap I,Small Blend,1992-03-19,DFA U.S. Small Cap
 DFSVX,DFA U.S. Small Cap Value I,Small Value,1993-02-26,DFA U.S. Small Cap Value
 DFUEX,DFA US Social Core Equity 2 Portfolio,Large Blend,2007-10-02,DFA US Social Core Equity 2 Portfolio
-DFUSX,DFA US Large Company I,Large Blend,1999-09-23,DFA US Large Company
 DFUVX,DFA US Large Cap Value III,Large Value,1996-06-20,DFA US Large Cap Value III
 DFVEX,DFA U.S. Vector Equity I,Mid-Cap Value,2006-01-03,DFA U.S. Vector Equity
 DGAGX,BNY Mellon Appreciation Investor,Large Growth,1986-01-02,BNY Mellon Appreciation
@@ -405,7 +404,6 @@ FAGOX,Fidelity Advisor Growth Opps M,Large Growth,1987-11-18,Fidelity Advisor Gr
 FAMEX,FAM Dividend Focus Fund Investor,Mid-Cap Blend,1996-03-29,FAM Dividend Focus
 FAMFX,FAM Small Cap Investor,Small Growth,2012-03-01,FAM Small Cap
 FAMVX,FAM Value Investor,Mid-Cap Blend,1986-12-31,FAM Value
-FAOFX,Fidelity Advisor Series Growth Opps,Large Growth,2013-11-19,Fidelity Advisor Series Growth Opps
 FAPHX,Fidelity Healthy Future,Large Growth,2022-05-24,Fidelity Healthy Future
 FAPNX,Fidelity Advisor Healthy Future Z,Large Growth,2022-05-24,Fidelity Advisor Healthy Future
 FASEX,Nuveen Mid Cap Value Opportunities A,Mid-Cap Value,1987-12-22,Nuveen Mid Cap Value Opportunities
@@ -413,11 +411,9 @@ FASPX,Fidelity Advisor Value Strategies M,Mid-Cap Value,1983-12-30,Fidelity Advi
 FBCCX,Fidelity Advisor Blue Chip Growth A,Large Growth,2024-10-08,Fidelity Advisor Blue Chip Growth
 FBCVX,Fidelity Blue Chip Value,Large Value,2003-01-08,Fidelity Blue Chip Value
 FBGRX,Fidelity Blue Chip Growth,Large Growth,1987-12-31,Fidelity Blue Chip Growth
-FBLEX,Fidelity Series Stk Selec Lg Cp Val,Large Value,2012-12-10,Fidelity Series Stk Selec Lg Cp Val
 FBLUX,Franklin BSP Lending Fund,Large Growth,2026-03-20,Franklin BSP Lending
 FCDTX,Fidelity Advisor Stock Selector Sm Cp M,Small Blend,2006-04-03,Fidelity Advisor Stock Selector Sm Cp
 FCEUX,Franklin U.S. Core Equity Advisor,Large Blend,2019-09-26,Franklin U.S. Core Equity
-FCGSX,Fidelity Series Growth Company,Large Growth,2013-11-19,Fidelity Series Growth Company
 FCIGX,Fidelity Advisor Small Cap Growth I,Small Growth,2001-11-02,Fidelity Advisor Small Cap Growth
 FCNTX,Fidelity Contrafund,Large Growth,1980-01-02,Fidelity Contrafund
 FCPGX,Fidelity Small Cap Growth,Small Growth,2004-11-04,Fidelity Small Cap Growth
@@ -432,7 +428,6 @@ FDESX,Fidelity Advisor Diversified Stock O,Large Blend,1980-01-02,Fidelity Advis
 FDETX,Fidelity Advisor Capital Development O,Large Blend,1985-12-30,Fidelity Advisor Capital Development
 FDGFX,Fidelity Dividend Growth,Large Blend,1995-07-14,Fidelity Dividend Growth
 FDGRX,Fidelity Growth Company Fund,Large Growth,1983-01-17,Fidelity Growth Company
-FDMLX,Fidelity Series Intrinsic Opps,Mid-Cap Value,2012-12-07,Fidelity Series Intrinsic Opps
 FDSAX,Fidelity Global Health Care Fund Series A U$ LSC (618A4),Large Value,2026-07-16,Fidelity Global Health Care Fund Series A U$ LSC
 FDSCX,Fidelity Stock Selector Small Cap,Small Blend,1995-12-14,Fidelity Stock Selector Small Cap
 FDSSX,Fidelity Stock Selec,Large Blend,1990-09-28,Fidelity Stock Selec
@@ -452,7 +447,6 @@ FFVPX,Fidelity Advisor Blue Chip Value Z,Large Value,2025-09-15,Fidelity Advisor
 FGDJX,Fidelity Advisor Dividend Growth Z,Large Blend,2025-08-04,Fidelity Advisor Dividend Growth
 FGINX,Nomura Growth and Income A,Large Value,1993-10-04,Nomura Growth and Income
 FGJEX,Fidelity Advisor Growth & Income Z,Large Blend,2025-03-25,Fidelity Advisor Growth & Income
-FGLGX,Fidelity Series Large Cap Stock,Large Blend,2012-12-11,Fidelity Series Large Cap Stock
 FGRIX,Fidelity Growth & Income,Large Blend,1985-12-30,Fidelity Growth & Income
 FGRTX,Fidelity Mega Cap Stock,Large Blend,1998-12-28,Fidelity Mega Cap Stock
 FGSAX,Federated Hermes MDT Mid Cap Growth A,Mid-Cap Growth,1984-08-23,Federated Hermes MDT Mid Cap Growth
@@ -469,7 +463,6 @@ FISEX,Franklin Equity Income A,Large Value,1988-03-15,Franklin Equity Income
 FISGX,Nuveen Small/Mid Cap Growth Opp I,Mid-Cap Growth,1989-12-28,Nuveen Small/Mid Cap Growth Opp
 FITIX,Fidelity Advisor Mid Cap II M,Mid-Cap Blend,2004-08-16,Fidelity Advisor Mid Cap II
 FIUSX,Nomura Opportunity A,Mid-Cap Value,1992-08-24,Nomura Opportunity
-FJACX,Fidelity Series Small Cap Discovery,Small Blend,2013-11-19,Fidelity Series Small Cap Discovery
 FKCSX,Federated Hermes Kaufmann Small Cap C,Small Growth,2002-12-19,Federated Hermes Kaufmann Small Cap
 FKDNX,Franklin DynaTech A,Large Growth,1980-01-02,Franklin DynaTech
 FKGRX,Franklin Growth A,Large Growth,1980-01-02,Franklin Growth
@@ -486,14 +479,12 @@ FMASX,Fidelity Advisor Magellan Z,Large Growth,2024-10-14,Fidelity Advisor Magel
 FMCCX,Fidelity Advisor Stock Selec Mid Cp I,Mid-Cap Blend,1996-02-20,Fidelity Advisor Stock Selec Mid Cp
 FMCSX,Fidelity Mid-Cap Stock,Mid-Cap Blend,1994-03-29,Fidelity Mid-Cap Stock
 FMCWX,Fidelity Advisor Mid-Cap Stock Z,Mid-Cap Blend,2024-10-14,Fidelity Advisor Mid-Cap Stock
-FMFMX,Fidelity Advisor Series Equity Gr,Large Growth,2014-06-11,Fidelity Advisor Series Equity Gr
 FMIHX,FMI Large Cap Investor,Large Value,2001-12-31,FMI Large Cap
 FMILX,Fidelity New Millennium,Large Blend,1992-12-28,Fidelity New Millennium
 FMIMX,FMI Common Stock Investor,Small Blend,1981-12-18,FMI Common Stock
 FMPTX,Fidelity Advisor Mid Cap Value M,Mid-Cap Value,2006-01-03,Fidelity Advisor Mid Cap Value
 FMUEX,Free Market US Equity Instl,Mid-Cap Value,2008-01-02,Free Market US Equity
 FNITX,Fidelity Advisor New Insights M,Large Growth,2003-01-08,Fidelity Advisor New Insights
-FNKLX,Fidelity Series Value Discovery,Large Value,2012-12-11,Fidelity Series Value Discovery
 FOCPX,Fidelity OTC,Large Growth,1984-12-31,Fidelity OTC
 FOSCX,Tributary Small Company Instl,Small Blend,1996-06-10,Tributary Small Company
 FOTJX,Fidelity Advisor OTC Z,Large Growth,2024-10-14,Fidelity Advisor OTC
@@ -506,9 +497,7 @@ FRMPX,Nuveen Small Cap Growth Opp A,Small Growth,1995-07-31,Nuveen Small Cap Gro
 FRNKX,Frank Value Inv,Mid-Cap Value,2004-07-22,Frank Value
 FRSGX,Franklin Small-Mid Cap Growth A,Mid-Cap Growth,1992-02-14,Franklin Small-Mid Cap Growth
 FRVLX,Franklin Small Cap Value A,Small Value,1996-03-11,Franklin Small Cap Value
-FSAEX,Fidelity Series All-Sector Equity,Large Blend,2008-10-20,Fidelity Series All-Sector Equity
 FSAKX,Strategic Advisers U.S. Total Stock,Large Blend,2024-07-10,Strategic Advisers U.S. Total Stock
-FSBDX,Fidelity Series Blue Chip Growth,Large Growth,2013-11-19,Fidelity Series Blue Chip Growth
 FSCCX,Nuveen Small Cap Value I,Small Value,1994-07-29,Nuveen Small Cap Value
 FSCRX,Fidelity Small Cap Discovery,Small Blend,2000-09-26,Fidelity Small Cap Discovery
 FSCTX,Fidelity Advisor Small Cap M,Small Blend,1998-09-09,Fidelity Advisor Small Cap
@@ -520,14 +509,11 @@ FSLSX,Fidelity Value Strategies,Mid-Cap Value,1983-12-30,Fidelity Value Strategi
 FSLVX,Fidelity Stk Selec Lg Cp Val,Large Value,2001-11-15,Fidelity Stk Selec Lg Cp Val
 FSMBX,Tributary Small/Mid Cap Instl Plus,Small Blend,2019-08-01,Tributary Small/Mid Cap
 FSMVX,Fidelity Mid Cap Value,Mid-Cap Value,2001-11-15,Fidelity Mid Cap Value
-FSOPX,Fidelity Series Small Cap Opps,Small Blend,2007-03-23,Fidelity Series Small Cap Opps
 FSSAX,Franklin Small Cap Growth Adv,Small Growth,2000-04-28,Franklin Small Cap Growth
 FSSKX,Fidelity Stock Selec-Class K,Large Blend,2008-05-09,Fidelity Stock Selec-Class
-FSSLX,Fidelity Series Small Cap Core,Small Blend,2022-11-07,Fidelity Series Small Cap Core
 FSSMX,Fidelity Stock Selector Mid Cap,Mid-Cap Blend,2012-06-06,Fidelity Stock Selector Mid Cap
 FSTKX,Federated Hermes MDT Large Cap Value Svc,Large Value,1982-03-31,Federated Hermes MDT Large Cap Value
 FSTUX,Invesco Dividend Income Investor,Large Value,1986-05-30,Invesco Dividend Income
-FSUMX,Fidelity Series Sustainable U.S. Market,Large Blend,2023-05-18,Fidelity Series Sustainable U.S. Market
 FTHMX,FullerThaler Behav Md-Cp Eq Inst,Mid-Cap Blend,2023-10-02,FullerThaler Behav Md-Cp Eq
 FTHSX,FullerThaler Behavioral Sm-Cp Eq Inst,Small Blend,2015-10-28,FullerThaler Behavioral Sm-Cp Eq
 FTMSX,FullerThaler Behvrl Mcr-Cp Eq Instl,Small Value,2019-01-03,FullerThaler Behvrl Mcr-Cp Eq
@@ -547,7 +533,6 @@ FVALX,Forester Value N,Large Value,1999-09-10,Forester Value
 FVDFX,Fidelity Value Discovery,Large Value,2002-12-11,Fidelity Value Discovery
 FVDOX,Fidelity Advisor Value Discovery Z,Large Value,2025-09-15,Fidelity Advisor Value Discovery
 FVIFX,Fidelity Advisor Value I,Mid-Cap Value,2003-12-24,Fidelity Advisor Value
-FVWSX,Fidelity Series Opportunistic Insights,Large Growth,2012-12-11,Fidelity Series Opportunistic Insights
 FWMIX,American Fds Washington Mutual F-3,Large Value,2017-01-27,American Fds Washington Mutual
 FWOMX,Fidelity Women's Leadership,Large Blend,2019-05-08,Fidelity Women's Leadership
 FWOZX,Fidelity Advisor Women's Leadership Z,Large Blend,2019-05-08,Fidelity Advisor Women's Leadership
@@ -738,7 +723,6 @@ IMANX,Iman K,Large Growth,2000-06-30,Iman
 IMCVX,Voya Multi-Manager Mid Cap Value I,Mid-Cap Value,2011-10-04,Voya Multi-Manager Mid Cap Value
 IMIDX,Congress Mid Cap Growth Institutional,Mid-Cap Growth,2012-11-01,Congress Mid Cap Growth
 IMSCX,IMS Capital Value,Large Blend,1996-07-31,IMS Capital Value
-INDEX,CYBER HORNET S&P 500,Large Blend,2015-05-11,CYBER HORNET S&P
 INDZX,Columbia Intrinsic Value A,Large Value,1990-10-15,Columbia Intrinsic Value
 INSCX,Catalyst Insider Buying C,Mid-Cap Growth,2011-07-29,Catalyst Insider Buying
 INUTX,Columbia Dividend Opportunity A,Large Value,1988-07-29,Columbia Dividend Opportunity
@@ -1263,7 +1247,6 @@ RWGIX,Wedgewood Institutional,Large Growth,2010-10-04,Wedgewood
 RYCKX,Rydex S&P MidCap 400 Pure Growth C,Mid-Cap Growth,2004-02-20,Rydex S&P MidCap 400 Pure Growth
 RYDKX,Rydex Dow Jones Industrial Average C,Large Value,2015-12-01,Rydex Dow Jones Industrial Average
 RYDVX,Royce Smid-Cap Total Return Service,Mid-Cap Blend,2004-04-30,Royce Smid-Cap Total Return
-RYGRX,Rydex S&P 500 Pure Growth C,Large Growth,2004-02-20,Rydex S&P 500 Pure Growth
 RYMCX,Royce Micro-Cap Consult,Small Blend,1998-05-01,Royce Micro-Cap Consult
 RYMMX,Rydex S&P MidCap 400 Pure Value C,Small Value,2004-02-20,Rydex S&P MidCap 400 Pure Value
 RYOCX,Rydex NASDAQ-100 Inv,Large Growth,1994-02-14,Rydex
@@ -1273,14 +1256,12 @@ RYPNX,Royce Small-Cap Opportunity Invmt,Small Value,1996-11-19,Royce Small-Cap O
 RYPRX,Royce Premier Invmt,Small Blend,1991-12-31,Royce
 RYRRX,Rydex Russell 2000 A,Small Blend,2006-05-31,Rydex Russell
 RYSEX,Royce Small-Cap Special Equity Invmt,Small Value,1998-04-30,Royce Small-Cap Special Equity
-RYSYX,Rydex S&P 500 C,Large Blend,2006-05-31,Rydex S&P
 RYTCX,Royce Small-Cap Total Return Consult,Small Value,2001-10-16,Royce Small-Cap Total Return Consult
 RYTRX,Royce Small-Cap Total Return Invmt,Small Value,1993-12-15,Royce Small-Cap Total Return
 RYVFX,Royce Small-Cap Value Service,Small Value,2001-06-14,Royce Small-Cap Value
 RYVPX,Royce Small-Cap Growth Svc,Small Growth,2001-06-14,Royce Small-Cap Growth
 RYWAX,Rydex S&P SmallCap 600 Pure Growth H,Small Growth,2004-01-02,Rydex S&P SmallCap 600 Pure Growth
 RYYCX,Rydex S&P SmallCap 600 Pure Value C,Small Value,2004-02-20,Rydex S&P SmallCap 600 Pure Value
-RYZAX,Rydex S&P 500 Pure Value H,Large Value,2004-02-20,Rydex S&P 500 Pure Value
 SABTX,SA US Value,Large Value,1999-08-05,SA US Value
 SAGWX,Touchstone Small Company A,Small Blend,1993-02-26,Touchstone Small Company
 SAIFX,ClearBridge Large Cap Value I,Large Value,1980-01-02,ClearBridge Large Cap Value
@@ -1373,7 +1354,6 @@ SOPAX,ClearBridge Dividend Strategy A,Large Value,1992-11-06,ClearBridge Dividen
 SOPVX,Allspring Opportunity A,Large Blend,2000-02-24,Allspring Opportunity
 SPECX,Alger Spectra A,Large Growth,1995-12-21,Alger Spectra
 SPEGX,Alger Responsible Investing A,Large Growth,2000-12-07,Alger Responsible Investing
-SPFFX,Sphere 500 Climate R6,Large Blend,2021-10-04,Sphere 500 Climate
 SPFZX,PGIM Jennison Focused Growth Z,Large Growth,2000-05-31,PGIM Jennison Focused Growth
 SPGIX,SEI Large Cap Growth I (SIMT),Large Growth,2001-08-06,SEI Large Cap Growth I (SIMT)
 SPGRX,DWS Equity Sector Strategy Fund Class S,Large Blend,1996-11-15,DWS Equity Sector Strategy
@@ -1383,7 +1363,6 @@ SPSDX,Sterling Capital Behav Sm Cp Val Eq C,Small Value,2010-02-01,Sterling Capi
 SPUSX,Symmetry Panoramic US Equity I,Large Blend,2018-11-12,Symmetry Panoramic US Equity
 SPVYX,SEI Small Cap Value Y (SIMT),Small Value,2015-11-03,SEI Small Cap Value Y (SIMT)
 SPWIX,SEI Small Cap Growth I (SIMT),Small Growth,2001-08-03,SEI Small Cap Growth I (SIMT)
-SPXUX,WisdomTree 500 Digital N/A,Large Blend,2023-01-19,WisdomTree 500 Digital N/A
 SPYGX,Spyglass Growth Institutional,Mid-Cap Growth,2018-01-02,Spyglass Growth
 SRFMX,Sarofim Equity,Large Blend,2014-01-21,Sarofim Equity
 SROIX,Calamos Antetokounmpo Sustainable Eqs I,Large Blend,2023-05-17,Calamos Antetokounmpo Sustainable Eqs
@@ -1533,7 +1512,6 @@ USPVX,Union Street Partners Value A,Large Value,2011-01-03,Union Street Partners
 USRAX,Horizon Multi-Factor U.S. Equity Inv,Large Blend,2019-06-26,Horizon Multi-Factor U.S. Equity
 UUOAX,GMO U.S. Opportunistic Value Vi,Large Value,2023-02-13,GMO U.S. Opportunistic Value Vi
 UVALX,Victory Value,Large Value,2001-08-03,Victory Value
-VADDX,Invesco Equally-Wtd S&P 500 Y,Large Blend,1997-07-28,Invesco Equally-Wtd S&P
 VADGX,Vanguard Advice Select Dividend Gr Admrl,Large Blend,2021-11-09,Vanguard Advice Select Dividend Gr Admrl
 VAFAX,Invesco American Franchise A,Large Growth,2005-06-23,Invesco American Franchise
 VALAX,Al Frank Adv,Large Value,2006-04-28,Al Frank

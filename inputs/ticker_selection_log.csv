@@ -904,7 +904,7 @@ CRMSX,CRM Small Cap Value Inv,Small Blend,1995-09-29,CRM Small Cap Value,
 CRISX,CRM Small Cap Value Instl,Small Blend,1997-12-31,CRM Small Cap Value,other share class of same fund (kept oldest)
 CRMAX,CRM Small/Mid Cap Value Inv,Small Blend,2004-09-03,CRM Small/Mid Cap Value,
 CRIAX,CRM Small/Mid Cap Value Inst,Small Blend,2004-09-03,CRM Small/Mid Cap Value,other share class of same fund (kept oldest)
-INDEX,CYBER HORNET S&P 500,Large Blend,2015-05-11,CYBER HORNET S&P,
+INDEX,CYBER HORNET S&P 500,Large Blend,2015-05-11,CYBER HORNET S&P,manual exclude (exclude_manual.csv)
 CVACX,Calamos Select Fund C,Large Blend,2001-12-31,Calamos,
 CVAAX,Calamos Select Fund A,Large Blend,2001-12-31,Calamos,other share class of same fund (kept oldest)
 CVAIX,Calamos Select Fund I,Large Blend,2002-02-15,Calamos,other share class of same fund (kept oldest)
@@ -1293,7 +1293,7 @@ DUSQX,DFA US Large Cap Equity Institutional,Large Blend,2013-06-21,DFA US Large 
 DUSLX,DFA US Large Cap Growth Instl,Large Growth,2012-12-27,DFA US Large Cap Growth,
 DFLVX,DFA US Large Cap Value I,Large Value,1993-02-18,DFA US Large Cap Value,
 DFUVX,DFA US Large Cap Value III,Large Value,1996-06-20,DFA US Large Cap Value III,
-DFUSX,DFA US Large Company I,Large Blend,1999-09-23,DFA US Large Company,
+DFUSX,DFA US Large Company I,Large Blend,1999-09-23,DFA US Large Company,manual exclude (exclude_manual.csv)
 DFSCX,DFA US Micro Cap I,Small Blend,1986-01-02,DFA US Micro Cap,
 DSCGX,DFA US Small Cap Growth Instl,Small Growth,2012-12-27,DFA US Small Cap Growth,
 DFUEX,DFA US Social Core Equity 2 Portfolio,Large Blend,2007-10-02,DFA US Social Core Equity 2 Portfolio,
@@ -1720,8 +1720,8 @@ FOTHX,Fidelity Advisor OTC I,Large Growth,2024-10-14,Fidelity Advisor OTC,other 
 FOTGX,Fidelity Advisor OTC C,Large Growth,2024-10-14,Fidelity Advisor OTC,other share class of same fund (kept oldest)
 FOTEX,Fidelity Advisor OTC M,Large Growth,2024-10-14,Fidelity Advisor OTC,other share class of same fund (kept oldest)
 FOTDX,Fidelity Advisor OTC A,Large Growth,2024-10-14,Fidelity Advisor OTC,other share class of same fund (kept oldest)
-FMFMX,Fidelity Advisor Series Equity Gr,Large Growth,2014-06-11,Fidelity Advisor Series Equity Gr,
-FAOFX,Fidelity Advisor Series Growth Opps,Large Growth,2013-11-19,Fidelity Advisor Series Growth Opps,
+FMFMX,Fidelity Advisor Series Equity Gr,Large Growth,2014-06-11,Fidelity Advisor Series Equity Gr,manual exclude (exclude_manual.csv)
+FAOFX,Fidelity Advisor Series Growth Opps,Large Growth,2013-11-19,Fidelity Advisor Series Growth Opps,manual exclude (exclude_manual.csv)
 FSCTX,Fidelity Advisor Small Cap M,Small Blend,1998-09-09,Fidelity Advisor Small Cap,
 FSCIX,Fidelity Advisor Small Cap I,Small Blend,1998-09-09,Fidelity Advisor Small Cap,other share class of same fund (kept oldest)
 FSCEX,Fidelity Advisor Small Cap C,Small Blend,1998-09-09,Fidelity Advisor Small Cap,other share class of same fund (kept oldest)
@@ -1854,21 +1854,21 @@ FSUVX,Fidelity SAI US LowVolatility Idx,Large Blend,2015-05-29,Fidelity SAI US L
 FUMIX,Fidelity SAI US Momentum Index,Large Growth,2017-02-09,Fidelity SAI US Momentum Index,index fund (name)
 FUQIX,Fidelity SAI US Quality Index,Large Growth,2015-10-08,Fidelity SAI US Quality Index,index fund (name)
 FSWCX,Fidelity SAI US Value Index,Large Value,2017-12-19,Fidelity SAI US Value Index,index fund (name)
-FSAEX,Fidelity Series All-Sector Equity,Large Blend,2008-10-20,Fidelity Series All-Sector Equity,
-FSBDX,Fidelity Series Blue Chip Growth,Large Growth,2013-11-19,Fidelity Series Blue Chip Growth,
-FCGSX,Fidelity Series Growth Company,Large Growth,2013-11-19,Fidelity Series Growth Company,
-FDMLX,Fidelity Series Intrinsic Opps,Mid-Cap Value,2012-12-07,Fidelity Series Intrinsic Opps,
-FGLGX,Fidelity Series Large Cap Stock,Large Blend,2012-12-11,Fidelity Series Large Cap Stock,
+FSAEX,Fidelity Series All-Sector Equity,Large Blend,2008-10-20,Fidelity Series All-Sector Equity,manual exclude (exclude_manual.csv)
+FSBDX,Fidelity Series Blue Chip Growth,Large Growth,2013-11-19,Fidelity Series Blue Chip Growth,manual exclude (exclude_manual.csv)
+FCGSX,Fidelity Series Growth Company,Large Growth,2013-11-19,Fidelity Series Growth Company,manual exclude (exclude_manual.csv)
+FDMLX,Fidelity Series Intrinsic Opps,Mid-Cap Value,2012-12-07,Fidelity Series Intrinsic Opps,manual exclude (exclude_manual.csv)
+FGLGX,Fidelity Series Large Cap Stock,Large Blend,2012-12-11,Fidelity Series Large Cap Stock,manual exclude (exclude_manual.csv)
 FIOOX,Fidelity Series Large Cap Value Index,Large Value,2013-11-19,Fidelity Series Large Cap Value Index,index fund (name)
 FHOFX,Fidelity Series Large Cp Grwth Idx,Large Growth,2018-08-31,Fidelity Series Large Cp Grwth Idx,index fund (name)
-FVWSX,Fidelity Series Opportunistic Insights,Large Growth,2012-12-11,Fidelity Series Opportunistic Insights,
-FSSLX,Fidelity Series Small Cap Core,Small Blend,2022-11-07,Fidelity Series Small Cap Core,
-FJACX,Fidelity Series Small Cap Discovery,Small Blend,2013-11-19,Fidelity Series Small Cap Discovery,
-FSOPX,Fidelity Series Small Cap Opps,Small Blend,2007-03-23,Fidelity Series Small Cap Opps,
-FBLEX,Fidelity Series Stk Selec Lg Cp Val,Large Value,2012-12-10,Fidelity Series Stk Selec Lg Cp Val,
-FSUMX,Fidelity Series Sustainable U.S. Market,Large Blend,2023-05-18,Fidelity Series Sustainable U.S. Market,
+FVWSX,Fidelity Series Opportunistic Insights,Large Growth,2012-12-11,Fidelity Series Opportunistic Insights,manual exclude (exclude_manual.csv)
+FSSLX,Fidelity Series Small Cap Core,Small Blend,2022-11-07,Fidelity Series Small Cap Core,manual exclude (exclude_manual.csv)
+FJACX,Fidelity Series Small Cap Discovery,Small Blend,2013-11-19,Fidelity Series Small Cap Discovery,manual exclude (exclude_manual.csv)
+FSOPX,Fidelity Series Small Cap Opps,Small Blend,2007-03-23,Fidelity Series Small Cap Opps,manual exclude (exclude_manual.csv)
+FBLEX,Fidelity Series Stk Selec Lg Cp Val,Large Value,2012-12-10,Fidelity Series Stk Selec Lg Cp Val,manual exclude (exclude_manual.csv)
+FSUMX,Fidelity Series Sustainable U.S. Market,Large Blend,2023-05-18,Fidelity Series Sustainable U.S. Market,manual exclude (exclude_manual.csv)
 FCFMX,Fidelity Series Total Market Index,Large Blend,2019-04-26,Fidelity Series Total Market Index,index fund (name)
-FNKLX,Fidelity Series Value Discovery,Large Value,2012-12-11,Fidelity Series Value Discovery,
+FNKLX,Fidelity Series Value Discovery,Large Value,2012-12-11,Fidelity Series Value Discovery,manual exclude (exclude_manual.csv)
 FSCRX,Fidelity Small Cap Discovery,Small Blend,2000-09-26,Fidelity Small Cap Discovery,
 FCPGX,Fidelity Small Cap Growth,Small Growth,2004-11-04,Fidelity Small Cap Growth,
 FOCSX,Fidelity Small Cap Growth K6,Small Growth,2017-05-25,Fidelity Small Cap Growth,other share class of same fund (kept oldest)
@@ -2567,7 +2567,7 @@ FSIUX,Invesco Dividend Income R5,Large Value,2005-10-25,Invesco Dividend Income,
 IAUYX,Invesco Dividend Income Y,Large Value,2008-10-02,Invesco Dividend Income,other share class of same fund (kept oldest)
 IFUTX,Invesco Dividend Income R6,Large Value,2012-09-24,Invesco Dividend Income,other share class of same fund (kept oldest)
 IRTCX,Invesco Dividend Income R,Large Value,2020-04-17,Invesco Dividend Income,other share class of same fund (kept oldest)
-VADDX,Invesco Equally-Wtd S&P 500 Y,Large Blend,1997-07-28,Invesco Equally-Wtd S&P,
+VADDX,Invesco Equally-Wtd S&P 500 Y,Large Blend,1997-07-28,Invesco Equally-Wtd S&P,manual exclude (exclude_manual.csv)
 VADCX,Invesco Equally-Wtd S&P 500 C,Large Blend,1997-07-28,Invesco Equally-Wtd S&P,other share class of same fund (kept oldest)
 VADAX,Invesco Equally-Wtd S&P 500 A,Large Blend,1997-07-28,Invesco Equally-Wtd S&P,other share class of same fund (kept oldest)
 VADRX,Invesco Equally-Wtd S&P 500 R,Large Blend,2008-03-31,Invesco Equally-Wtd S&P,other share class of same fund (kept oldest)
@@ -4387,13 +4387,13 @@ RYDAX,Rydex Dow Jones Industrial Average A,Large Value,2015-12-01,Rydex Dow Jone
 RYRRX,Rydex Russell 2000 A,Small Blend,2006-05-31,Rydex Russell,
 RYROX,Rydex Russell 2000 C,Small Blend,2006-05-31,Rydex Russell,other share class of same fund (kept oldest)
 RYRHX,Rydex Russell 2000 H,Small Blend,2006-05-31,Rydex Russell,other share class of same fund (kept oldest)
-RYSYX,Rydex S&P 500 C,Large Blend,2006-05-31,Rydex S&P,
+RYSYX,Rydex S&P 500 C,Large Blend,2006-05-31,Rydex S&P,manual exclude (exclude_manual.csv)
 RYSPX,Rydex S&P 500 H,Large Blend,2006-05-31,Rydex S&P,other share class of same fund (kept oldest)
 RYSOX,Rydex S&P 500 A,Large Blend,2006-05-31,Rydex S&P,other share class of same fund (kept oldest)
-RYGRX,Rydex S&P 500 Pure Growth C,Large Growth,2004-02-20,Rydex S&P 500 Pure Growth,
+RYGRX,Rydex S&P 500 Pure Growth C,Large Growth,2004-02-20,Rydex S&P 500 Pure Growth,manual exclude (exclude_manual.csv)
 RYAWX,Rydex S&P 500 Pure Growth H,Large Growth,2004-02-20,Rydex S&P 500 Pure Growth,other share class of same fund (kept oldest)
 RYLGX,Rydex S&P 500 Pure Growth A,Large Growth,2004-08-31,Rydex S&P 500 Pure Growth,other share class of same fund (kept oldest)
-RYZAX,Rydex S&P 500 Pure Value H,Large Value,2004-02-20,Rydex S&P 500 Pure Value,
+RYZAX,Rydex S&P 500 Pure Value H,Large Value,2004-02-20,Rydex S&P 500 Pure Value,manual exclude (exclude_manual.csv)
 RYVVX,Rydex S&P 500 Pure Value C,Large Value,2004-02-20,Rydex S&P 500 Pure Value,other share class of same fund (kept oldest)
 RYLVX,Rydex S&P 500 Pure Value A,Large Value,2004-08-31,Rydex S&P 500 Pure Value,other share class of same fund (kept oldest)
 RYCKX,Rydex S&P MidCap 400 Pure Growth C,Mid-Cap Growth,2004-02-20,Rydex S&P MidCap 400 Pure Growth,
@@ -4537,7 +4537,7 @@ SSEFX,"SouthernSun U.S. Equity, N",Small Blend,2012-04-11,"SouthernSun U.S. Equi
 SGFFX,Sparrow Growth A,Large Growth,1998-09-30,Sparrow Growth,
 SGFCX,Sparrow Growth C,Large Growth,2012-01-03,Sparrow Growth,other share class of same fund (kept oldest)
 SGNFX,Sparrow Growth No-Load,Large Growth,2000-11-09,Sparrow Growth No-Load,
-SPFFX,Sphere 500 Climate R6,Large Blend,2021-10-04,Sphere 500 Climate,
+SPFFX,Sphere 500 Climate R6,Large Blend,2021-10-04,Sphere 500 Climate,manual exclude (exclude_manual.csv)
 SOAVX,Spirit of America Large Cap Value A,Large Blend,1998-08-18,Spirit of America Large Cap Value,
 SACVX,Spirit of America Large Cap Value C,Large Blend,2016-03-15,Spirit of America Large Cap Value,other share class of same fund (kept oldest)
 SOIVX,Spirit of America Large Cap Value Inst,Large Blend,2020-05-01,Spirit of America Large Cap Value,other share class of same fund (kept oldest)
@@ -5467,7 +5467,7 @@ DTSGX,Wilshire Small Company Growth Invmt,Small Growth,1992-09-30,Wilshire Small
 WSMGX,Wilshire Small Company Growth Instl,Small Growth,1996-07-15,Wilshire Small Company Growth,other share class of same fund (kept oldest)
 DTSVX,Wilshire Small Company Value Invmt,Small Value,1992-09-30,Wilshire Small Company Value,
 WSMVX,Wilshire Small Company Value Instl,Small Value,1996-07-15,Wilshire Small Company Value,other share class of same fund (kept oldest)
-SPXUX,WisdomTree 500 Digital N/A,Large Blend,2023-01-19,WisdomTree 500 Digital N/A,
+SPXUX,WisdomTree 500 Digital N/A,Large Blend,2023-01-19,WisdomTree 500 Digital N/A,manual exclude (exclude_manual.csv)
 YCGEX,YCG Enhanced,Large Growth,2013-01-02,YCG Enhanced,
 YOVLX,Yorktown Small-Cap L,Small Growth,2016-05-09,Yorktown Small-Cap,
 YOVIX,Yorktown Small-Cap Institutional,Small Growth,2016-05-09,Yorktown Small-Cap,other share class of same fund (kept oldest)
